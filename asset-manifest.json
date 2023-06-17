@@ -1,26 +1,33 @@
 {
   "files": {
-    "main.css": "./static/css/main.b463eaa6.css",
-    "main.js": "./static/js/main.df8929cf.js",
+    "main.css": "./static/css/main.d5d94a40.css",
+    "main.js": "./static/js/main.db0a27a6.js",
     "static/media/canceled-success.svg": "./static/media/canceled-success.de1d841f3e3211ab34d26e3e344b5d10.svg",
     "static/media/YS Text-Medium.ttf": "./static/media/YS Text-Medium.539b582961cb62bacd04.ttf",
     "static/media/YS Text-Bold.ttf": "./static/media/YS Text-Bold.c44fba1bf1ac59d758f0.ttf",
     "static/media/YS Text-Regular.ttf": "./static/media/YS Text-Regular.bc681d0f81260a93ddf3.ttf",
     "static/media/success.svg": "./static/media/success.baecfa851b3b0966771a01f1bbb2705c.svg",
     "static/media/header-logo.svg": "./static/media/header-logo.52045ab08247b8d20e74050c7d8131ad.svg",
+    "static/media/toxic-icon.svg": "./static/media/toxic-icon.f6d7844da56ee5df13094b5d6aeee7aa.svg",
+    "static/media/qr-code-icon.svg": "./static/media/qr-code-icon.4785644206037d1d54ed82a71138106d.svg",
     "static/media/keyboard-logo.svg": "./static/media/keyboard-logo.82c4570e5c2e66ddea047d553ae8716a.svg",
     "static/media/full-gradient.svg": "./static/media/full-gradient.125223fb89ec926e9573.svg",
     "static/media/rocket-logo.svg": "./static/media/rocket-logo.f3c4be4e508495ff2ca40c5d90d44e91.svg",
+    "static/media/imei-code-icon.svg": "./static/media/imei-code-icon.ae9e4cbbba372a1f80eaaaa68079b44d.svg",
+    "static/media/package-icon.svg": "./static/media/package-icon.edf3659e06dfcb2608b29673c5410069.svg",
     "static/media/gradient.svg": "./static/media/gradient.20e19e361bb1b2203c6e.svg",
     "static/media/Danger-ico.svg": "./static/media/Danger-ico.840cf2d2dcf60781ebc60d9cd7776048.svg",
+    "static/media/fragile-icon.svg": "./static/media/fragile-icon.a02ac7c610e327ee5303172e1835fc3e.svg",
+    "static/media/cancel-ico.svg": "./static/media/cancel-ico.0478ac23002d3544b3311955f511cbfe.svg",
     "index.html": "./index.html",
     "static/media/x-ico.svg": "./static/media/x-ico.433de1a2487cb564009355f969ff9912.svg",
+    "static/media/reversed-check-mark.svg": "./static/media/reversed-check-mark.a2f4e7724d2e22cf4f1a731c4eaacb21.svg",
     "static/media/check-mark.svg": "./static/media/check-mark.328320b9d2185984e0991644404c5ed2.svg",
-    "main.b463eaa6.css.map": "./static/css/main.b463eaa6.css.map",
-    "main.df8929cf.js.map": "./static/js/main.df8929cf.js.map"
+    "main.d5d94a40.css.map": "./static/css/main.d5d94a40.css.map",
+    "main.db0a27a6.js.map": "./static/js/main.db0a27a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b463eaa6.css",
-    "static/js/main.df8929cf.js"
+    "static/css/main.d5d94a40.css",
+    "static/js/main.db0a27a6.js"
   ]
 }
